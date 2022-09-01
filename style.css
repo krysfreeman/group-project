@@ -29,6 +29,7 @@ main h2 {
     color: hotpink;
     background-color: black;
     padding: 3px;
+    border: 5px solid hotpink;
 }
 
 .my-style {
